@@ -17,8 +17,8 @@
         "mustangostang/spyc": "0.5.1"
     },
     "require-dev": {
-        "codeception/codeception": "2.1",
-         "guzzlehttp/guzzle": "5.*"
+        "codeception/codeception": "5.3.7",
+         "guzzlehttp/guzzle": "7.*"
     },
     "scripts": {
         "test": "./vendor/bin/codecept"
